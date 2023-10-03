@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449936519928",
+    "project_id": "digilocker-2c737",
+    "storage_bucket": "digilocker-2c737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449936519928:android:3b4ca7eb8f6a790609410d",
+        "android_client_info": {
+          "package_name": "com.vishnu.digilocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6_HjAepqiwa5Zm_093iLFsZvQvI2yS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
